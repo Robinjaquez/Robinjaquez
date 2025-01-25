@@ -1,8 +1,7 @@
-## Hi there 👋
 
 # 💻 Sobre mí  
 
-¡Hola! 👋 Soy estudiante de 2º curso del ciclo formativo de Desarrollo de Aplicaciones Web (DAW).  
+¡Hola! 👋 Soy Robin Jáquez, un estudiante de 2º curso del ciclo formativo de Desarrollo de Aplicaciones Web (DAW).  
 Apasionado por la programación y el desarrollo de aplicaciones, trabajo en proyectos que abarcan desde la gestión de prácticas en entornos educativos (con uso de bases de datos), hasta aplicaciones con Java y Servlets.
 
 ## 🚀 Tecnologías y Herramientas  
