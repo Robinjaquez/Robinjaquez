@@ -25,8 +25,7 @@ Mi objetivo es seguir creciendo como desarrollador, contribuir a proyectos de c�
 - 💼 [LinkedIn](www.linkedin.com/in/robin-brayan-jaquez-encarnacion)  
 - 📧 Robinjaquezcontacto@gmail.com
 
----
-¡Gracias por visitar mi perfil! 😊  
+
 <!--
 **Robinjaquez/Robinjaquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
